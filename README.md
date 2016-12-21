@@ -8,6 +8,6 @@ The plan:
 
 
 Next steps:
- 1. Make the index page basically presentable
- 2. wire up allred.nyc DNS
- 3. push this to github
+ - Make the index page basically presentable
+ - wire up allred.nyc DNS
+ - restore basic subpages /jude /stirling /ember jude/slides /stirling/onesheep
